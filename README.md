@@ -4,7 +4,7 @@
 
 ## 下载
 
-**[下载安装包和离线网页版](https://github.com/agent17090/ciji/releases/tag/v1.9.61)**
+**[下载安装包和离线网页版](https://github.com/agent17090/ciji-beidanci/releases/tag/v1.9.61)**
 
 - 安卓版：下载 `ciji-v1.9.61.apk`，打开安装。
 - 离线网页版：下载 `ciji-v1.9.61-offline-web.zip`，解压后用电脑浏览器打开“词迹-背单词.html”，断网也能使用。
